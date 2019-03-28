@@ -39,7 +39,8 @@ d) Cosine Similarity
 
 ## Output Format
 
-The output is of the format *Index of Document A* -- *Index of Document B* -- *Corresponding Similarity Score*
+The output is of the format *Index of Document A*,*Index of Document B*,*Corresponding Similarity Score* -- *Index of Document B*,*Index of Document C*,*Corresponding Similarity Score* ...so on.
+
 
 
 ## Authors
