@@ -37,7 +37,7 @@ c) Inverse Document Frequency (IDF)
 d) Cosine Similarity
 
 
-##Output Format
+## Output Format
 
 The output is of the format *Index of Document A* -- *Index of Document B* -- *Corresponding Similarity Score*
 
