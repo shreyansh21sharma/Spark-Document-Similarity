@@ -1,6 +1,7 @@
 # Document Similarity using Spark
 
-A simple program built upon Apache Spark using Scala and sbt to find the similarity between multiple documents on their specified locations. Under development.
+A simple program built upon Apache Spark using Scala and sbt to find the similarity between multiple documents on their specified locations. 
+#### Algorithm inspired from a similar work done in internship finding relation between multiple data sources in a big data environment.
 
 ## Getting Started
 
