@@ -46,5 +46,5 @@ The output is of the format *Index of Document A*,*Index of Document B*,*Corresp
 
 ## Authors
 
-* **Shreyansh Sharma** - *Contact me on:* - [LinkedIn](https://www.linkedin.com/in/shreyansh-sharma-39a631147)
+* **Shreyansh Sharma** - *Contact me on:* - [LinkedIn](https://www.linkedin.com/in/shreyansh21sharma)
 
